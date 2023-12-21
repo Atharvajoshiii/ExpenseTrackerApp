@@ -12,7 +12,7 @@ class MyHomePage extends StatefulWidget {
 }
 
 class _MyHomePageState extends State<MyHomePage> {
-  final expenselist = ["Food", "Shopping", "Home", "Bank", "Travelling"];
+  //final expenselist = ["Food", "Shopping", "Home", "Bank", "Travelling"];
 
   TextEditingController _textFieldController = TextEditingController();
   late DatabaseReference databaseRef;
